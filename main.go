@@ -12,7 +12,7 @@ import (
 
 	"strings"
 
-	"github.com/adair/stations"
+	"github.com/adair/tickets/stations"
 	"github.com/docopt/docopt-go"
 	"github.com/logrusorgru/aurora"
 	"github.com/olekukonko/tablewriter"
